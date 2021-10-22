@@ -1,0 +1,5 @@
+lF x 8
+lH x 6
+rF x 9
+rH x 7
+PDC x 20
